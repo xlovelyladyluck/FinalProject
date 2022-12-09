@@ -17,6 +17,10 @@ public class driver {
 		PriorityQ.insert(userInput);
 		}break;
 		
+		FinalizedList.(PriorityQ);
+		
+		System.out.println(PriorityQ.toString());
+		
 		
 		
 	}
